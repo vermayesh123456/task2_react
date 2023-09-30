@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/task2_react/static/css/main.4317297d.css",
+    "main.js": "/task2_react/static/js/main.4eda38ed.js",
+    "static/media/moon.gif": "/task2_react/static/media/moon.f41ad74f11a30ad1fc79.gif",
+    "index.html": "/task2_react/index.html",
+    "main.4317297d.css.map": "/task2_react/static/css/main.4317297d.css.map",
+    "main.4eda38ed.js.map": "/task2_react/static/js/main.4eda38ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4317297d.css",
+    "static/js/main.4eda38ed.js"
+  ]
+}
